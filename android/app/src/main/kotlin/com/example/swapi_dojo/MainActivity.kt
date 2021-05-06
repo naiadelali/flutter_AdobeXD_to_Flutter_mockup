@@ -1,4 +1,4 @@
-package com.example.flutter_test_layout
+package com.example.flutter_dojo
 
 import io.flutter.embedding.android.FlutterActivity
 

@@ -1,6 +1,6 @@
 {
-    "name": "flutter_test_layout",
-    "short_name": "flutter_test_layout",
+    "name": "flutter_dojo",
+    "short_name": "flutter_dojo",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
